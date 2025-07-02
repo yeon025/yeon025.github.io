@@ -1,8 +1,8 @@
 ---
-title: "[컴퓨터 구조] 하드웨어 스레드"
+title: "하드웨어 스레드"
 author: 
 date: 2025-06-05 16:35:00 +0900
-categories: [Computer Science]
+categories: [Computer Architecture]
 ---
 ![danawa](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUP2Cn%2FbtsOolvQmrh%2FNmhCjqWuZZKVk2r5bbCFcK%2Fimg.png)
 [[컴퓨터 구조]CPU 코어](https://yeon025.github.io/posts/cpu-core/) 에서는 `8Core 16Thread`의 Core에 대해 설명했습니다.
